@@ -15,9 +15,9 @@ export function initRulesPage(goTo: (path: string) => void) {
   `;
 
   // Al hacer clic en ¡Jugar!, viaja a la pantalla de la partida
-  div.querySelector(".btn-play")?.addEventListener("click", () => {
-    goTo("/game");
-  });
+ div.querySelector(".btn-play")?.addEventListener("click", () => {
+  goTo("/play");
+});
 
   return div;
 }

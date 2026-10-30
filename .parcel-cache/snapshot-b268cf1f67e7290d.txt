@@ -1,7 +1,7 @@
-4501
+4503
 174C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\color-name\index.js134339040045447306 0
 174C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\email-addresses\lib134339039433667207 1
-154C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\package.json134377945221480221 0
+154C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\package.json134377950237005692 0
 180C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\reusify\.github\workflows134339039433750367 1
 181C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\@swc\helpers\cjs\index.cjs134339040050182067 0
 176C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\node-releases\LICENSE134339040045340645 0
@@ -10,7 +10,7 @@
 196C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\@swc\helpers\src\_to_consumable_array.mjs134339040058253407 0
 167C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\lmdb\open.js134339040053146881 0
 175C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\globals\globals.json134339040047787135 0
-152C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\.gitignore134377933505025690 0
+152C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\.gitignore134377946776321673 0
 182C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\fs-extra\lib\ensure\link.js134339039433945350 0
 206C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c134339040050811959 0
 205C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\caniuse-lite\data\features\input-file-directory.js134339040058060757 0
@@ -19,9 +19,9 @@
 180C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\@parcel\utils\src\svgo.js134339040074492874 0
 201C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\caniuse-lite\data\features\css-supports-api.js134339040053410881 0
 205C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\@swc\helpers\esm\_class_apply_descriptor_update.js134339040050603576 0
-155C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\src\router.ts134377925514011330 0
+155C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\src\router.ts134377951786235690 0
 173C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\msgpackr\pack.d.ts134339040050633586 0
-146C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist134377946195022160 1
+146C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist134377952205444865 1
 189C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\@parcel\logger\test\Logger.test.js134339040069861392 0
 210C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c134339040051292913 0
 186C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\lmdb\dependencies\lz4\lib\lz4.c134339040050719360 0
@@ -571,7 +571,7 @@
 176C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\ordered-binary\assets134339040045945624 1
 189C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\utility-types\dist\mapped-types.js134339040047612996 0
 195C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\baseline-browser-mapping\dist\index.d.ts134339040046540675 0
-170C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\.cache\gh-pages134377942643758983 1
+170C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\.cache\gh-pages134377946269956929 1
 184C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\lightningcss\node\ast.js.flow134339040048052287 0
 193C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\utility-types\dist\mapped-types.js.map134339040047896314 0
 190C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\utility-types\dist\utility-types.js134339040047653004 0
@@ -3008,6 +3008,7 @@
 170C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\async\select.js134339039435120327 0
 176C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\async\selectSeries.js134339039435120327 0
 188C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\@parcel\packager-svg\package.json134339040064191086 0
+178C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist\ROCK-PAPER-SCISSORS.399484f0.js134377952205344901 0
 167C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\async\seq.js134339039435120327 0
 170C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\async\series.js134339039435160323 0
 176C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\async\setImmediate.js134339039435160323 0
@@ -4497,6 +4498,7 @@
 170C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\.bin\semver.cmd134339039435439996 0
 170C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\node_modules\.bin\semver.ps1134339039435439996 0
 200C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist\d2fcd3119aea6ee5d39e70e777bd8fec3a82c58e.23e0cebf.png134377940370519709 0
-157C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist\index.html134377946195002151 0
+157C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist\index.html134377952205334897 0
 178C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist\ROCK-PAPER-SCISSORS.2e2510f5.js134377940371152072 0
+182C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist\ROCK-PAPER-SCISSORS.399484f0.js.map134377952205434870 0
 179C:\Users\Pekka\Desktop\Carpetas-utiles\Archivos-Personales\Carpeta-Programacion\Curso-APX\NIVEL-2\Programacion-nivel2\src\ROCK-PAPER-SCISSORS\dist\ROCK-PAPER-SCISSORS.9eade30c.css134377940371152072 0
