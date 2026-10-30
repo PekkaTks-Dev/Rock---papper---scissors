@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body, html, #root {
+  width: 100%;
+  height: 100%;
+}
+
+.page {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 35px 20px 0 20px;
+  background-color: #f7f9fa;
+  background-image: url("./components/img/d2fcd3119aea6ee5d39e70e777bd8fec3a82c58e.png");
+  background-repeat: repeat;
+  background-size: 140px;
+}
+
+.btn {
+  background: #006cfb;
+  border: 10px solid #001997;
+  color: #fff;
+  font-size: 28px;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 12px 24px;
+  width: 100%;
+  max-width: 340px;
+  cursor: pointer;
+}
+
+/* Pantalla Resultados */
+.result-page.result-ganaste {
+  background: rgba(136, 137, 73, 0.9);
+}
+.result-page.result-perdiste {
+  background: rgba(143, 87, 87, 0.9);
+}
+.result-page.result-empate {
+  background: rgba(184, 134, 66, 0.9);
+}
+
+.score-board {
+  background: white;
+  border: 10px solid black;
+  border-radius: 10px;
+  padding: 15px 30px;
+  width: 260px;
+  text-align: center;
+}
