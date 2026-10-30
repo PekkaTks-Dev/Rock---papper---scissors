@@ -3,40 +3,45 @@ import { initRulesPage } from "./pages/rules";
 import { initPlayPage } from "./pages/play";
 import { initResultPage } from "./pages/result";
 
+// 1. Definimos las rutas del juego
 const routes = [
+  { path: /^\/$/, component: initWelcomePage },
   { path: /^\/welcome$/, component: initWelcomePage },
   { path: /^\/rules$/, component: initRulesPage },
   { path: /^\/play$/, component: initPlayPage },
-  { path: /^\/result$/, component: initResultPage }
+  { path: /^\/result$/, component: initResultPage },
 ];
 
-export function goTo(path: string) {
-  window.location.hash = path;
-}
+export function initRouter(container: Element) {
+  function goTo(path: string) {
+    location.hash = path;
+  }
 
-export function initRouter(container: HTMLElement) {
   function handleRoute(route: string) {
-    const cleanRoute = route.replace("#", "") || "/welcome";
-    let matched = false;
-
-    for (const r of routes) {
-      if (r.path.test(cleanRoute)) {
-        matched = true;
-        const pageEl = r.component(goTo);
-        container.innerHTML = "";
-        container.appendChild(pageEl);
-        break;
-      }
+    let cleanRoute = route.replace("#", "");
+    if (!cleanRoute || cleanRoute === "/") {
+      cleanRoute = "/welcome";
     }
 
-    if (!matched) {
+    container.innerHTML = "";
+
+    // 2. Buscamos en el array 'routes' (en plural), no en el string 'route'
+    const matched = routes.find((r) => r.path.test(cleanRoute));
+    if (matched) {
+      const pageElem = matched.component(goTo);
+      container.appendChild(pageElem);
+    } else {
       goTo("/welcome");
     }
   }
 
   window.addEventListener("hashchange", () => {
-    handleRoute(window.location.hash);
+    handleRoute(location.hash);
   });
 
-  handleRoute(window.location.hash);
+  if (!location.hash) {
+    goTo("/welcome");
+  } else {
+    handleRoute(location.hash);
+  }
 }

@@ -2,16 +2,16 @@
   "name": "rock-paper-scissors",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://PekkaTks-Dev.github.io/Rock---papper---scissors",
   "scripts": {
-    "dev": "parcel src/index.html",
+    "dev": "parcel index.html",
     "build": "parcel build index.html --public-url ./",
-    "deploy": "gh-pages -d ./dist",
-    "build-and-deploy": "npm run build && npm run deploy"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "parcel": "^2.16.4"
   },
