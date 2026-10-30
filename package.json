@@ -7,7 +7,7 @@
     "dev": "parcel index.html",
     "build": "parcel build index.html --public-url ./",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "cross-env CACHE_DIR=C:/gh-cache gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
