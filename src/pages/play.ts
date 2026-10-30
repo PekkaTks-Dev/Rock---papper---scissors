@@ -4,6 +4,41 @@ export function initPlayPage(goTo: (path: string) => void): HTMLElement {
   const section = document.createElement("section");
   section.className = "page play-page";
   section.innerHTML = `
+    <style>
+      .play-page {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        height: 100vh;
+        box-sizing: border-box;
+        padding-top: 50px;
+      }
+      .countdown-circle {
+        font-size: 80px;
+        font-weight: bold;
+      }
+      .hands-picker {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        gap: 30px;
+        width: 100%;
+        margin-bottom: 20px;
+      }
+      .hand-btn {
+        background: transparent;
+        border: none;
+        font-size: 100px; /* <--- ACÁ EL TAMAÑO: 100px las deja bien grandes */
+        cursor: pointer;
+        padding: 0;
+        line-height: 1;
+        transition: transform 0.2s ease;
+      }
+      .hand-btn:hover {
+        transform: translateY(-20px) scale(1.15);
+      }
+    </style>
     <div class="countdown-circle"><span id="timer">3</span></div>
     <div class="hands-picker">
       <button data-play="tijera" class="hand-btn">✌️</button>
